@@ -1,0 +1,6 @@
+module Pods_stopWatch {
+  umbrella header "Pods-stopWatch-umbrella.h"
+
+  export *
+  module * { export * }
+}
